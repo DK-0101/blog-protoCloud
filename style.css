@@ -136,3 +136,7 @@ footer small {
     font-size: 80%;
     display: block;
 }
+
+.cog-abuse {
+    visibility: hidden !important;
+}
